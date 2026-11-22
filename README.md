@@ -1,2 +1,9 @@
-# Brain-Tumor-Classification
-MRI-based brain tumor classification using HOG, GLCM, SVM, Random Forest and Explainable AI.
+# Screenshots
+
+Add genuine screenshots of the Streamlit application here.
+
+Suggested screenshots:
+- Application homepage
+- MRI image upload
+- Classification result
+- Occlusion sensitivity heatmap

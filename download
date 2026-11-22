@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+.DS_Store
+
+# Do not upload the MRI dataset
+Training/
+Testing/
+dataset/
+
+# Local model artifact (hosted on Hugging Face)
+brain_tumor_model.pkl
